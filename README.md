@@ -394,6 +394,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ and ☕ by Gaurav Singhv & lakshay Tripathi 
+Made with ❤️ and ☕ by Gaurav Singhv 
 
 **🌟 Star this repo if you found it helpful!**
