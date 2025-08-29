@@ -21,7 +21,7 @@ A comprehensive AI-powered platform for gold investment guidance, real-time pric
 - **Live Gold Prices**: Current spot prices with 24-hour changes
 - **Price Charts**: Interactive historical price trends
 - **Market Indicators**: High/low ranges and percentage changes..
-- **Multi-Source Data**: Reliable price feeds from multiple APIs with fallback mechanisms
+- **Multi-Source Data**: Reliable price feeds from multiple APIs with fallback mechanisms...
 
 ### 🛒 Purchase Integration
 - **Buy Gold Online**: Direct integration with trusted gold dealers
