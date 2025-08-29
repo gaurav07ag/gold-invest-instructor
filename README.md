@@ -43,7 +43,7 @@ Python 3.8+
 pip or conda
 ```
 
-### Installation
+### Installation###
 
 1. **Clone the repository**
 ```bash
