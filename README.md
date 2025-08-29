@@ -9,7 +9,7 @@ A comprehensive AI-powered platform for gold investment guidance, real-time pric
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## ✨ Features..
+## ✨ Features...
 
 ### 🤖 AI-Powered Chat Assistant
 - **Intelligent Responses**: Powered by Google Gemini AI with fallback to rule-based responses
