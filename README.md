@@ -15,7 +15,7 @@ A comprehensive AI-powered platform for gold investment guidance, real-time pric
 - **Intelligent Responses**: Powered by Google Gemini AI with fallback to rule-based responses
 - **Real-time Gold Prices**: Live market data integration with multiple API sources
 - **Market Analysis**: Comprehensive insights into gold market trends and factors
-- **Investment Guidance**: Personalized recommendations for different investment strategies...
+- **Investment Guidance**: Personalized recommendations for different investment strategies....
 
 ### 📊 Real-Time Market Data
 - **Live Gold Prices**: Current spot prices with 24-hour changes
