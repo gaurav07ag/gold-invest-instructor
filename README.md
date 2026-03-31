@@ -11,7 +11,7 @@ A comprehensive AI-powered platform for gold investment guidance, real-time pric
 
 ## ✨ Features...
 
-### 🤖 AI-Powered Chat Assistant
+### 🤖 AI-Powered Chat Assistant..
 - **Intelligent Responses**: Powered by Google Gemini AI with fallback to rule-based responses
 - **Real-time Gold Prices**: Live market data integration with multiple API sources
 - **Market Analysis**: Comprehensive insights into gold market trends and factors
